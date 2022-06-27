@@ -60,6 +60,7 @@ const Wrapper = styled.article`
     align-items: center;
     text-align: left;
     gap: 1rem;
+    overflow: hidden;
   }
   img {
     width: 100%;
